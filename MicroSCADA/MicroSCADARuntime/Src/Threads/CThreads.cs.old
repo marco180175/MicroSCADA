@@ -1,0 +1,244 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Threading;
+using MicroSCADACustomLibrary;
+using MicroSCADAServiceLibrary.Src.Protocols;
+
+namespace MicroSCADAServiceLibrary.Src
+{
+    static class CTagDictionary
+    {
+        public static Dictionary<Guid, CTagCustom> Items = new Dictionary<Guid, CTagCustom>();
+    }
+    static class CSlaveDictionary
+    {
+        public static Dictionary<int, CThreadExternalTags> Items = new Dictionary<int, CThreadExternalTags>();
+    }
+    abstract class CThreadTags
+    {
+        protected Thread thread;        
+        protected int index;
+        protected Boolean loop;
+
+        public CThreadTags()
+        {
+            this.thread = null;            
+            this.index = 0;
+            this.loop = false;
+        }
+
+        public abstract void Start();
+
+        public abstract void Stop();
+
+        public Boolean IsRunning
+        {
+            get { return this.loop; }
+        }
+        
+        protected abstract void Execute();
+
+    }
+
+    class CThreadInternalTags : CThreadTags
+    {
+        private List<CTagDemo> tagList;
+        private CTagDemo variable;
+        public CThreadInternalTags()
+            : base()
+        {
+            this.tagList = new List<CTagDemo>();
+            this.variable = null;
+        }
+        /*!
+         * 
+         */
+        public void AddTag(CTagDemo Value)
+        {
+            tagList.Add(Value);
+        }
+        /*!
+         * 
+         */
+        public override void Start()
+        {
+            if (tagList.Count > 0)
+            {
+                this.loop = true;
+                this.thread = new Thread(new ThreadStart(this.Execute));
+                this.thread.IsBackground = true;
+                this.thread.Start();
+            }
+        }
+        /*!
+         * 
+         */
+        public override void Stop()
+        {
+            if (thread != null)
+            {
+                //Termina loop da thread
+                loop = false;
+                //Aguarda temino da thread
+                thread.Join();
+                thread = null;
+            }
+        }
+        /*!
+         * 
+         */
+        protected override void Execute()
+        {
+            while (loop)
+            {
+                if (tagList.Count > 0)
+                {
+                    variable = tagList[index];
+                    if (variable.Enabled)
+                    {
+                        if ((Environment.TickCount - variable.TickCount) > variable.Period)
+                        {
+                            variable.TickCount = Environment.TickCount;
+                            variable.DoStep();
+                        }
+                    }
+                    //
+                    if (index < tagList.Count - 1)
+                        index++;
+                    else
+                        index = 0;
+                }
+                //
+                Thread.Sleep(10);
+            }
+        }
+    }
+
+    class CThreadExternalTags : CThreadTags
+    {
+        private List<CTagExternal> tagList;
+        private CTagExternal variable;
+        private CModbusProtocol modbus;
+        private bool status;
+        public CThreadExternalTags()
+            : base()
+        {
+            this.tagList = new List<CTagExternal>();
+            this.variable = null;
+        }
+        /*!
+         * 
+         */
+        public void AddTag(CTagExternal Value)
+        {
+            tagList.Add(Value);
+        }
+        /*!
+         * 
+         */
+        public void SetDriver(CModbusProtocol Value)
+        {
+            modbus = Value;
+        }
+        /*!
+         * 
+         */
+        public override void Start()
+        {
+            if (tagList.Count > 0)
+            {
+                if (modbus.CommunicationDevice.Open())
+                {
+                    loop = true;
+                    thread = new Thread(new ThreadStart(Execute));
+                    thread.IsBackground = true;
+                    thread.Start();
+                }
+            }           
+        }
+        /*!
+         * 
+         */
+        public override void Stop()
+        {
+            if (thread != null)
+            {
+                //Termina loop da thread
+                loop = false;
+                //Aguarda temino da thread
+                thread.Join();
+                thread = null;
+                if (modbus.CommunicationDevice.IsOpened)
+                    modbus.CommunicationDevice.Close();
+            }
+        }
+        /*!
+         * 
+         */
+        protected override void Execute()
+        {       
+            while (loop)
+            {
+                variable = tagList[index];
+                if (variable.Enabled)
+                {
+                    if ((Environment.TickCount - variable.TickCount) > variable.Scan)
+                    {
+                        variable.TickCount = Environment.TickCount;
+                        if (variable.TagType == CTagType.Read)
+                        {   //Variaveis apenas de leitura
+                            switch (variable.DataType)
+                            {
+                                case CIECDataType.dtBool:
+                                    status = modbus.ReadInputStatus(variable.Slave, variable.Address, variable.ArraySize);
+                                    break;
+                                case CIECDataType.dtInt:
+                                case CIECDataType.dtUInt:
+                                case CIECDataType.dtDInt:
+                                case CIECDataType.dtUDInt:
+                                case CIECDataType.dtWORD:
+                                case CIECDataType.dtDWORD:
+                                    status = modbus.ReadInputRegister(variable.Slave, variable.Address, variable.ArraySize);
+                                    break;
+                                default:
+                                    status = false;
+                                    break;
+                            }                            
+                        }
+                        else
+                        {   //Variaveis de leitura e escrita                                
+                            switch (variable.DataType)
+                            {
+                                case CIECDataType.dtBool:
+                                    status = modbus.ReadCoilStatus(variable.Slave, variable.Address, variable.ArraySize);
+                                    break;
+                                case CIECDataType.dtInt:
+                                case CIECDataType.dtUInt:
+                                case CIECDataType.dtDInt:
+                                case CIECDataType.dtUDInt:
+                                case CIECDataType.dtWORD:
+                                case CIECDataType.dtDWORD:
+                                    status = modbus.ReadHoldingRegister(variable.Slave, variable.Address, variable.ArraySize);
+                                    break;
+                                default:
+                                    status = false;
+                                    break;
+                            }                            
+                        }
+                    }
+                }
+                //
+                if (index < tagList.Count - 1)
+                    index++;
+                else
+                    index = 0;
+            }
+            //
+            Thread.Sleep(10);
+        }
+    }
+
+}
+

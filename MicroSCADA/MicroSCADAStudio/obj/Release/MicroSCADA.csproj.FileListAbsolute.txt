@@ -1,0 +1,11 @@
+H:\Projects\VisualCS\SCADABuilder\SCADABuilder\bin\Release\xmldoc.xml
+H:\Projects\VisualCS\SCADABuilder\SCADABuilder\bin\Release\SCADABuilder.exe
+H:\Projects\VisualCS\SCADABuilder\SCADABuilder\bin\Release\SCADABuilder.pdb
+H:\Projects\VisualCS\SCADABuilder\SCADABuilder\obj\Release\ResolveAssemblyReference.cache
+H:\Projects\VisualCS\SCADABuilder\SCADABuilder\obj\Release\WindowsFormsApplication1.Form1.resources
+H:\Projects\VisualCS\SCADABuilder\SCADABuilder\obj\Release\WindowsFormsApplication1.FormObjectProperties.resources
+H:\Projects\VisualCS\SCADABuilder\SCADABuilder\obj\Release\WindowsFormsApplication1.FormProjectManager.resources
+H:\Projects\VisualCS\SCADABuilder\SCADABuilder\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+H:\Projects\VisualCS\SCADABuilder\SCADABuilder\obj\Release\MicroSCADA.csproj.GenerateResource.Cache
+H:\Projects\VisualCS\SCADABuilder\SCADABuilder\obj\Release\SCADABuilder.exe
+H:\Projects\VisualCS\SCADABuilder\SCADABuilder\obj\Release\SCADABuilder.pdb

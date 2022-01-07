@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{59E93F23-E7E4-4D2D-ADD5-648C4975BEDC}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MicroSCADACustomLibrary</RootNamespace>
+    <AssemblyName>MicroSCADACustomLibrary</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Src\CCustomAction.cs" />
+    <Compile Include="Src\CCustomAlarm.cs" />
+    <Compile Include="Src\CCustomAlarmsManager.cs" />
+    <Compile Include="Src\CCustomBitmapItem.cs" />
+    <Compile Include="Src\CCustomBitmapList.cs" />
+    <Compile Include="Src\HMI\CustomBitArrayAlarmList.cs" />
+    <Compile Include="Src\HMI\CustomBitArrayList.cs" />
+    <Compile Include="Src\HMI\CustomBitArrayTriggerList.cs" />
+    <Compile Include="Src\HMI\CustomEnabledFlag.cs" />
+    <Compile Include="Src\HMI\CustomFontHMI.cs" />
+    <Compile Include="Src\HMI\CustomHMI.cs" />
+    <Compile Include="Src\HMI\CustomCOMHMI.cs" />
+    <Compile Include="Src\HMI\CustomKey.cs" />
+    <Compile Include="Src\HMI\CustomKeyboard.cs" />
+    <Compile Include="Src\HMI\CustomPasswordList.cs" />
+    <Compile Include="Src\HMI\CustomProgramList.cs" />
+    <Compile Include="Src\IOFiles\MessageEvent.cs" />
+    <Compile Include="Src\IOFiles\OpenFromBIN.cs" />
+    <Compile Include="Src\IOFiles\OpenProgressEvent.cs" />
+    <Compile Include="Src\Tags\CCustomPropertyTag.cs" />
+    <Compile Include="Src\CCustomSerialPort.cs" />
+    <Compile Include="Src\CCustomTCPClient.cs" />
+    <Compile Include="Src\CEnumIdentificatorObject.cs" />
+    <Compile Include="Src\CHashObjects.cs" />
+    <Compile Include="Src\CModbusType.cs" />
+    <Compile Include="Src\CCustomDataType.cs" />
+    <Compile Include="Src\CSysUtils.cs" />
+    <Compile Include="Src\CCustomScript.cs" />
+    <Compile Include="Src\IOFiles\CIOFileXML.cs" />
+    <Compile Include="Src\IOFiles\CXMLUtils.cs" />
+    <Compile Include="Src\Visuals\CCustomAnimation.cs" />
+    <Compile Include="Src\Visuals\CCustomBargraph.cs" />
+    <Compile Include="Src\Visuals\CCustomBargraphElement.cs" />
+    <Compile Include="Src\Visuals\CCustomButton.cs" />
+    <Compile Include="Src\Visuals\CCustomCheckBox.cs" />
+    <Compile Include="Src\Visuals\CCustomMeter.cs" />
+    <Compile Include="Src\Visuals\CCustomRadioGroup.cs" />
+    <Compile Include="Src\Visuals\CCustomShape.cs" />
+    <Compile Include="Src\Visuals\CCustomTrendChart.cs" />
+    <Compile Include="Src\Visuals\CCustomAlphaNumeric.cs" />
+    <Compile Include="CCustomObject.cs" />
+    <Compile Include="Src\Tags\CCustomDemoTag.cs" />
+    <Compile Include="Src\Tags\CCustomExternalTag.cs" />
+    <Compile Include="Src\Tags\CCustomInternalTag.cs" />
+    <Compile Include="Src\Tags\CCustomMemoryTag.cs" />
+    <Compile Include="Src\Visuals\CCustomField.cs" />
+    <Compile Include="Src\Visuals\CCustomScreenObject.cs" />
+    <Compile Include="Src\CCustomProject.cs" />
+    <Compile Include="Src\Visuals\CCustomScreen.cs" />
+    <Compile Include="Src\CCustomScreenList.cs" />
+    <Compile Include="Src\CCustomSystem.cs" />
+    <Compile Include="Src\Tags\CCustomTag.cs" />
+    <Compile Include="Src\Visuals\CCustomText.cs" />
+    <Compile Include="Src\Visuals\CCustomView.cs" />
+    <Compile Include="Src\CCustomNetwork.cs" />
+    <Compile Include="Src\CCustomSlave.cs" />
+    <Compile Include="Src\CCustomInternalTagList.cs" />
+    <Compile Include="Src\Visuals\CCustomPicture.cs" />
+    <Compile Include="Src\CCustomTextProperties.cs" />
+    <Compile Include="Src\Visuals\CCustomDinamicText.cs" />
+    <Compile Include="Src\IOFiles\COpenFromXML.cs" />
+    <Compile Include="Src\IOFiles\CSaveToXML.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

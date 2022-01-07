@@ -1,0 +1,7 @@
+E:\Projects\AutoToolsCSharp\Library\TreeViewAdv\UnitTests\bin\Debug\Aga.Controls.UnitTests.dll
+E:\Projects\AutoToolsCSharp\Library\TreeViewAdv\UnitTests\bin\Debug\Aga.Controls.UnitTests.pdb
+E:\Projects\AutoToolsCSharp\Library\TreeViewAdv\UnitTests\bin\Debug\Aga.Controls.dll
+E:\Projects\AutoToolsCSharp\Library\TreeViewAdv\UnitTests\bin\Debug\Aga.Controls.pdb
+E:\Projects\AutoToolsCSharp\Library\TreeViewAdv\UnitTests\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\AutoToolsCSharp\Library\TreeViewAdv\UnitTests\obj\Debug\Aga.Controls.UnitTests.dll
+E:\Projects\AutoToolsCSharp\Library\TreeViewAdv\UnitTests\obj\Debug\Aga.Controls.UnitTests.pdb

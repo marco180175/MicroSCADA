@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{65868097-4482-44BC-B8B2-97A062B99A9A}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MicroSCADAStudioLibrary</RootNamespace>
+    <AssemblyName>MicroSCADAStudioLibrary</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Aga.Controls">
+      <HintPath>..\..\Library\TreeViewAdv\Aga.Controls\bin\Debug\Aga.Controls.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Src\CDesignAction.cs" />
+    <Compile Include="Src\CDesignActionList.cs" />
+    <Compile Include="Src\CDesignAlarm.cs" />
+    <Compile Include="Src\CDesignAlarmsManager.cs" />
+    <Compile Include="Src\CDesignBitmapItem.cs" />
+    <Compile Include="Src\CDesignBitmapList.cs" />
+    <Compile Include="Src\CDesignCustomScreenList.cs" />
+    <Compile Include="Src\CDesignEvents.cs" />
+    <Compile Include="Src\CDesignInternalTagList.cs" />
+    <Compile Include="Src\CDesignNetwork.cs" />
+    <Compile Include="Src\CDesignPopupScreenList.cs" />
+    <Compile Include="Src\CDesignProject.cs" />
+    <Compile Include="Src\CDesignPropertyTagList.cs" />
+    <Compile Include="Src\CDesignScreenList.cs" />
+    <Compile Include="Src\CDesignScript.cs" />
+    <Compile Include="Src\CDesignSlave.cs" />
+    <Compile Include="Src\CDesignSystem.cs" />
+    <Compile Include="Src\CDesignObject.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Src\Forms\ApplicationBrowserForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Src\Forms\ApplicationBrowserForm.Designer.cs">
+      <DependentUpon>ApplicationBrowserForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Src\Forms\BackgroundScreenForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Src\Forms\BackgroundScreenForm.Designer.cs">
+      <DependentUpon>BackgroundScreenForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Src\Forms\TextEditorForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Src\Forms\TextEditorForm.Designer.cs">
+      <DependentUpon>TextEditorForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Src\HMI\CDesignBitArrayAlarmList.cs" />
+    <Compile Include="Src\HMI\CDesignBitArrayList.cs" />
+    <Compile Include="Src\HMI\CDesignBitArrayTriggerList.cs" />
+    <Compile Include="Src\HMI\CDesignComHMI.cs" />
+    <Compile Include="Src\HMI\CDesignFontHMIList.cs" />
+    <Compile Include="Src\HMI\CDesignHMI.cs" />
+    <Compile Include="Src\HMI\CDesignPasswordList.cs" />
+    <Compile Include="Src\HMI\CDesignProgramList.cs" />
+    <Compile Include="Src\Tags\CDesignCustomTag.cs" />
+    <Compile Include="Src\Tags\CDesignDinamicTag.cs" />
+    <Compile Include="Src\Tags\CDesignExternalTag.cs" />
+    <Compile Include="Src\Tags\CDesignExternalTagItem.cs" />
+    <Compile Include="Src\Tags\CDesignInternalTag.cs" />
+    <Compile Include="Src\Tags\CDesignSRAMTag.cs" />
+    <Compile Include="Src\Tags\CDesignPropertyTag.cs" />
+    <Compile Include="Src\Tags\CDesignDemoTag.cs" />
+    <Compile Include="Src\Forms\ActionEditorForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Src\Forms\ActionEditorForm.Designer.cs">
+      <DependentUpon>ActionEditorForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Src\Forms\CollectionEditorForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Src\Forms\CollectionEditorForm.Designer.cs">
+      <DependentUpon>CollectionEditorForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Src\Tags\CDesignTimerTag.cs" />
+    <Compile Include="Src\TypeConverter\CActionTypeConverter.cs" />
+    <Compile Include="Src\TypeConverter\CAlarmTypeConverter.cs" />
+    <Compile Include="Src\TypeConverter\CBitmapTypeDialogPreset.cs" />
+    <Compile Include="Src\TypeConverter\CollectionEditorPreset.cs" />
+    <Compile Include="Src\TypeConverter\CScriptEventTypeConverter.cs" />
+    <Compile Include="Src\TypeConverter\CTagTypeConverter.cs" />
+    <Compile Include="Src\TypeConverter\CTagTypeDialogPreset.cs" />
+    <Compile Include="Src\TypeConverter\TextEditorPreset.cs" />
+    <Compile Include="Src\Visuals\CDesignAlarmTable.cs" />
+    <Compile Include="Src\Visuals\CDesignAlphaNumeric.cs" />
+    <Compile Include="Src\Visuals\CDesignAnimation.cs" />
+    <Compile Include="Src\Visuals\CDesignBargraph.cs" />
+    <Compile Include="Src\Visuals\CDesignBaseScreen.cs" />
+    <Compile Include="Src\Visuals\CDesignButton.cs" />
+    <Compile Include="Src\Visuals\CDesignCheckBox.cs" />
+    <Compile Include="Src\Visuals\CDesignCommand.cs" />
+    <Compile Include="Src\Visuals\CDesignCustomScreen.cs" />
+    <Compile Include="Src\Visuals\CDesignDinamicText.cs" />
+    <Compile Include="Src\Visuals\CDesignCustomField.cs" />
+    <Compile Include="Src\Visuals\CDesignMeter.cs" />
+    <Compile Include="Src\Visuals\CDesignPicture.cs" />
+    <Compile Include="Src\Visuals\CDesignPopupScreen.cs" />
+    <Compile Include="Src\Visuals\CDesignRadionGroup.cs" />
+    <Compile Include="Src\Visuals\CDesignScreen.cs" />
+    <Compile Include="Src\Visuals\CDesignScreenObject.cs" />
+    <Compile Include="Src\Visuals\CDesignShape.cs" />
+    <Compile Include="Src\Visuals\CDesignText.cs" />
+    <Compile Include="Src\Visuals\CDesignTrendChart.cs" />
+    <Compile Include="Src\Visuals\CDesignView.cs" />
+    <Compile Include="Src\Visuals\IDesignCollectionEditor.cs" />
+    <Compile Include="Src\Visuals\IDesignZones.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MicroSCADACustomLibrary\MicroSCADACustomLibrary.csproj">
+      <Project>{59E93F23-E7E4-4D2D-ADD5-648C4975BEDC}</Project>
+      <Name>MicroSCADACustomLibrary</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Src\Forms\ActionEditorForm.resx">
+      <DependentUpon>ActionEditorForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Src\Forms\ApplicationBrowserForm.resx">
+      <DependentUpon>ApplicationBrowserForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Src\Forms\BackgroundScreenForm.resx">
+      <DependentUpon>BackgroundScreenForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Src\Forms\CollectionEditorForm.resx">
+      <DependentUpon>CollectionEditorForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Src\Forms\TextEditorForm.resx">
+      <DependentUpon>TextEditorForm.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete.png" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

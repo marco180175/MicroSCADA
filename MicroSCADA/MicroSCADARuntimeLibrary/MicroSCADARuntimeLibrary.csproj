@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{67634C1C-E382-4AFF-9AA7-C3DF48B3285F}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MicroSCADARuntimeLibrary</RootNamespace>
+    <AssemblyName>MicroSCADARuntimeLibrary</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Src\CRuntimeAction.cs" />
+    <Compile Include="Src\CRuntimeActionList.cs" />
+    <Compile Include="Src\CRuntimeAlarm.cs" />
+    <Compile Include="Src\CRuntimeAlarmsManager.cs" />
+    <Compile Include="Src\CRuntimeBitmapItem.cs" />
+    <Compile Include="Src\CRuntimeBitmapList.cs" />
+    <Compile Include="Src\CRuntimeCustomScreenList.cs" />
+    <Compile Include="Src\CRuntimeInternalTagList.cs" />
+    <Compile Include="Src\CRuntimeNetwork.cs" />
+    <Compile Include="Src\CRuntimeObject.cs" />
+    <Compile Include="Src\CRuntimePopupScreenList.cs" />
+    <Compile Include="Src\CRuntimeProject.cs" />
+    <Compile Include="Src\CRuntimePropertyTagList.cs" />
+    <Compile Include="Src\CRuntimeScreenList.cs" />
+    <Compile Include="Src\CRuntimeScript.cs" />
+    <Compile Include="Src\CRuntimeSlave.cs" />
+    <Compile Include="Src\CRuntimeSystem.cs" />
+    <Compile Include="Src\CRuntimeTagGroup.cs" />
+    <Compile Include="Src\CustomControls\SelectablePictureBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Src\Tags\CRuntimeCustomTag.cs" />
+    <Compile Include="Src\Tags\CRuntimeDemoTag.cs" />
+    <Compile Include="Src\Tags\CRuntimeDinamicTag.cs" />
+    <Compile Include="Src\Tags\CRuntimeExternalTag.cs" />
+    <Compile Include="Src\Tags\CRuntimeInternalTag.cs" />
+    <Compile Include="Src\Tags\CRuntimePropertyTag.cs" />
+    <Compile Include="Src\Tags\CRuntimeSRAMTag.cs" />
+    <Compile Include="Src\Tags\CRuntimeTagEvent.cs" />
+    <Compile Include="Src\Tags\CRuntimeTimerTag.cs" />
+    <Compile Include="Src\Visuals\CQueueScroll.cs" />
+    <Compile Include="Src\Visuals\CRuntimeAlphaNumeric.cs" />
+    <Compile Include="Src\Visuals\CRuntimeAnimation.cs" />
+    <Compile Include="Src\Visuals\CRuntimeBargraph.cs" />
+    <Compile Include="Src\Visuals\CRuntimeButton.cs" />
+    <Compile Include="Src\Visuals\CRuntimeCheckBox.cs" />
+    <Compile Include="Src\Visuals\CRuntimeCustomField.cs" />
+    <Compile Include="Src\Visuals\CRuntimeCustomScreen.cs" />
+    <Compile Include="Src\Visuals\CRuntimeDinamicText.cs" />
+    <Compile Include="Src\Visuals\CRuntimeFieldEvent.cs" />
+    <Compile Include="Src\Visuals\CRuntimeMeter.cs" />
+    <Compile Include="Src\Visuals\CRuntimePicture.cs" />
+    <Compile Include="Src\Visuals\CRuntimePopupScreen.cs" />
+    <Compile Include="Src\Visuals\CRuntimeRadioGroup.cs" />
+    <Compile Include="Src\Visuals\CRuntimeScreen.cs" />
+    <Compile Include="Src\Visuals\CRuntimeScreenObject.cs" />
+    <Compile Include="Src\Visuals\CRuntimeShape.cs" />
+    <Compile Include="Src\Visuals\CRuntimeText.cs" />
+    <Compile Include="Src\Visuals\CRuntimeTrendChart.cs" />
+    <Compile Include="Src\Visuals\CRuntimeView.cs" />
+    <Compile Include="Src\Visuals\IRuntimeField.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MicroSCADACustomLibrary\MicroSCADACustomLibrary.csproj">
+      <Project>{59E93F23-E7E4-4D2D-ADD5-648C4975BEDC}</Project>
+      <Name>MicroSCADACustomLibrary</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

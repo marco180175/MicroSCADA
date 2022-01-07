@@ -1,0 +1,19 @@
+﻿1 - 14/10/2013 : RESOLVER GUID PARA OBJETOS FILHOS DO PROJETO
+2 - RESOLVER NOMES DUPLICADOS DENTRO DO OBJETO PAI
+
+
+
+protected virtual void SetName(Value)
+{
+	CDesignSystem[] objects = owner.ObjectList.ToArray();
+	customObject.Name = GetNewName(Value,object);	
+	//evento
+}
+GetNewName()
+
+protected override void SetName(Value)
+{
+	CDesignSystem[] objects = owner.TagList.ToArray();
+	customObject.Name = GetNewName(Value,object);	
+	//evento
+}

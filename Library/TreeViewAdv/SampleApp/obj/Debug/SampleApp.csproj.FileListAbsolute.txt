@@ -1,0 +1,17 @@
+E:\Projects\AutoToolsCSharp\Library\TreeViewAdv\SampleApp\bin\Debug\SampleApp.exe
+E:\Projects\AutoToolsCSharp\Library\TreeViewAdv\SampleApp\bin\Debug\SampleApp.pdb
+E:\Projects\AutoToolsCSharp\Library\TreeViewAdv\SampleApp\bin\Debug\Aga.Controls.dll
+E:\Projects\AutoToolsCSharp\Library\TreeViewAdv\SampleApp\bin\Debug\Aga.Controls.pdb
+E:\Projects\AutoToolsCSharp\Library\TreeViewAdv\SampleApp\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\AutoToolsCSharp\Library\TreeViewAdv\SampleApp\obj\Debug\SampleApp.AdvancedExample.resources
+E:\Projects\AutoToolsCSharp\Library\TreeViewAdv\SampleApp\obj\Debug\SampleApp.BackgroundExpand.resources
+E:\Projects\AutoToolsCSharp\Library\TreeViewAdv\SampleApp\obj\Debug\SampleApp.FolderBrowser.resources
+E:\Projects\AutoToolsCSharp\Library\TreeViewAdv\SampleApp\obj\Debug\SampleApp.ColumnHandling.resources
+E:\Projects\AutoToolsCSharp\Library\TreeViewAdv\SampleApp\obj\Debug\SampleApp.MainForm.resources
+E:\Projects\AutoToolsCSharp\Library\TreeViewAdv\SampleApp\obj\Debug\SampleApp.PerformanceTest.resources
+E:\Projects\AutoToolsCSharp\Library\TreeViewAdv\SampleApp\obj\Debug\SampleApp.Properties.Resources.resources
+E:\Projects\AutoToolsCSharp\Library\TreeViewAdv\SampleApp\obj\Debug\SampleApp.SimpleExample.resources
+E:\Projects\AutoToolsCSharp\Library\TreeViewAdv\SampleApp\obj\Debug\SampleApp.DataTableTreeExample.resources
+E:\Projects\AutoToolsCSharp\Library\TreeViewAdv\SampleApp\obj\Debug\SampleApp.csproj.GenerateResource.Cache
+E:\Projects\AutoToolsCSharp\Library\TreeViewAdv\SampleApp\obj\Debug\SampleApp.exe
+E:\Projects\AutoToolsCSharp\Library\TreeViewAdv\SampleApp\obj\Debug\SampleApp.pdb

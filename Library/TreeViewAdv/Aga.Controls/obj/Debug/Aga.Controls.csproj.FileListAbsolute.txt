@@ -1,0 +1,15 @@
+E:\Projects\AutoToolsCSharp\Library\TreeViewAdv\Aga.Controls\bin\Debug\Aga.Controls.dll
+E:\Projects\AutoToolsCSharp\Library\TreeViewAdv\Aga.Controls\bin\Debug\Aga.Controls.pdb
+E:\Projects\AutoToolsCSharp\Library\TreeViewAdv\Aga.Controls\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\AutoToolsCSharp\Library\TreeViewAdv\Aga.Controls\obj\Debug\Aga.Controls.Properties.Resources.resources
+E:\Projects\AutoToolsCSharp\Library\TreeViewAdv\Aga.Controls\obj\Debug\Aga.Controls.Tree.TreeViewAdv.resources
+E:\Projects\AutoToolsCSharp\Library\TreeViewAdv\Aga.Controls\obj\Debug\Aga.Controls.csproj.GenerateResource.Cache
+E:\Projects\AutoToolsCSharp\Library\TreeViewAdv\Aga.Controls\obj\Debug\Aga.Controls.dll
+E:\Projects\AutoToolsCSharp\Library\TreeViewAdv\Aga.Controls\obj\Debug\Aga.Controls.pdb
+D:\Projects\VisualStudio2010\AutoToolsCSharp\Library\TreeViewAdv\Aga.Controls\bin\Debug\Aga.Controls.dll
+D:\Projects\VisualStudio2010\AutoToolsCSharp\Library\TreeViewAdv\Aga.Controls\bin\Debug\Aga.Controls.pdb
+D:\Projects\VisualStudio2010\AutoToolsCSharp\Library\TreeViewAdv\Aga.Controls\obj\Debug\Aga.Controls.Properties.Resources.resources
+D:\Projects\VisualStudio2010\AutoToolsCSharp\Library\TreeViewAdv\Aga.Controls\obj\Debug\Aga.Controls.Tree.TreeViewAdv.resources
+D:\Projects\VisualStudio2010\AutoToolsCSharp\Library\TreeViewAdv\Aga.Controls\obj\Debug\Aga.Controls.dll
+D:\Projects\VisualStudio2010\AutoToolsCSharp\Library\TreeViewAdv\Aga.Controls\obj\Debug\Aga.Controls.pdb
+D:\Projects\VisualStudio2010\AutoToolsCSharp\Library\TreeViewAdv\Aga.Controls\obj\Debug\Aga.Controls.csproj.GenerateResource.Cache

@@ -1,0 +1,124 @@
+C:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADARuntime\bin\Debug\MicroSCADARuntime.exe
+C:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADARuntime\bin\Debug\MicroSCADARuntime.pdb
+C:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADARuntime\bin\Debug\MicroSCADACustomLibray.dll
+C:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADARuntime\bin\Debug\MicroSCADACustomLibray.pdb
+C:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADARuntime\bin\Debug\Interop.MSScriptControl.dll
+C:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADARuntime\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADARuntime\obj\Debug\Interop.MSScriptControl.dll
+C:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADARuntime\obj\Debug\MicroSCADARuntime.csproj.ResolveComReference.cache
+C:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADARuntime\obj\Debug\MicroSCADARuntime.MainFormRuntime.resources
+C:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADARuntime\obj\Debug\MicroSCADARuntime.Properties.Resources.resources
+C:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADARuntime\obj\Debug\MicroSCADARuntime.csproj.GenerateResource.Cache
+C:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADARuntime\obj\Debug\MicroSCADARuntime.exe
+C:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADARuntime\obj\Debug\MicroSCADARuntime.pdb
+E:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADARuntime\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADARuntime\obj\Debug\Interop.MSScriptControl.dll
+E:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADARuntime\obj\Debug\MicroSCADARuntime.csproj.ResolveComReference.cache
+E:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADARuntime\obj\Debug\MicroSCADARuntime.AlarmsForm.resources
+E:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADARuntime\obj\Debug\MicroSCADARuntime.AlarmsTableForm.resources
+E:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADARuntime\obj\Debug\MicroSCADARuntime.CommLogForm.resources
+E:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADARuntime\obj\Debug\MicroSCADARuntime.MainFormRuntime.resources
+E:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADARuntime\obj\Debug\MicroSCADARuntime.Properties.Resources.resources
+E:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADARuntime\obj\Debug\MicroSCADARuntime.csproj.GenerateResource.Cache
+E:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADARuntime\bin\Debug\MicroSCADARuntime.exe.config
+E:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADARuntime\bin\Debug\MicroSCADARuntime.exe
+E:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADARuntime\bin\Debug\MicroSCADARuntime.pdb
+E:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADARuntime\bin\Debug\MicroSCADACustomLibray.dll
+E:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADARuntime\bin\Debug\MicroSCADACustomLibray.pdb
+E:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADARuntime\bin\Debug\Interop.MSScriptControl.dll
+E:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADARuntime\obj\Debug\MicroSCADARuntime.exe
+E:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADARuntime\obj\Debug\MicroSCADARuntime.pdb
+D:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADARuntime\bin\Debug\MicroSCADARuntime.exe.config
+D:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADARuntime\bin\Debug\MicroSCADARuntime.exe
+D:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADARuntime\bin\Debug\MicroSCADARuntime.pdb
+D:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADARuntime\bin\Debug\MicroSCADACustomLibrary.dll
+D:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADARuntime\bin\Debug\MicroSCADACustomLibrary.pdb
+D:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADARuntime\bin\Debug\Interop.MSScriptControl.dll
+D:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADARuntime\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADARuntime\obj\Debug\Interop.MSScriptControl.dll
+D:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADARuntime\obj\Debug\MicroSCADARuntime.csproj.ResolveComReference.cache
+D:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADARuntime\obj\Debug\MicroSCADARuntime.AlarmsForm.resources
+D:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADARuntime\obj\Debug\MicroSCADARuntime.AlarmsTableForm.resources
+D:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADARuntime\obj\Debug\MicroSCADARuntime.CommLogForm.resources
+D:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADARuntime\obj\Debug\MicroSCADARuntime.MainFormRuntime.resources
+D:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADARuntime\obj\Debug\MicroSCADARuntime.Properties.Resources.resources
+D:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADARuntime\obj\Debug\GenerateResource.read.1.tlog
+D:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADARuntime\obj\Debug\GenerateResource.write.1.tlog
+D:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADARuntime\obj\Debug\MicroSCADARuntime.exe
+D:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADARuntime\obj\Debug\MicroSCADARuntime.pdb
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA\MicroSCADARuntime\bin\Debug\MicroSCADARuntime.exe.config
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA\MicroSCADARuntime\bin\Debug\MicroSCADARuntime.exe
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA\MicroSCADARuntime\bin\Debug\MicroSCADARuntime.pdb
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA\MicroSCADARuntime\bin\Debug\MicroSCADACustomLibrary.dll
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA\MicroSCADARuntime\bin\Debug\MicroSCADACustomLibrary.pdb
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA\MicroSCADARuntime\bin\Debug\Interop.MSScriptControl.dll
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA\MicroSCADARuntime\obj\Debug\MicroSCADARuntime.csprojResolveAssemblyReference.cache
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA\MicroSCADARuntime\obj\Debug\Interop.MSScriptControl.dll
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA\MicroSCADARuntime\obj\Debug\MicroSCADARuntime.csproj.ResolveComReference.cache
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA\MicroSCADARuntime\obj\Debug\MicroSCADARuntime.AlarmsForm.resources
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA\MicroSCADARuntime\obj\Debug\MicroSCADARuntime.AlarmsTableForm.resources
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA\MicroSCADARuntime\obj\Debug\MicroSCADARuntime.CommLogForm.resources
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA\MicroSCADARuntime\obj\Debug\MicroSCADARuntime.MainFormRuntime.resources
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA\MicroSCADARuntime\obj\Debug\MicroSCADARuntime.Properties.Resources.resources
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA\MicroSCADARuntime\obj\Debug\MicroSCADARuntime.csproj.GenerateResource.Cache
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA\MicroSCADARuntime\obj\Debug\MicroSCADARuntime.exe
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA\MicroSCADARuntime\obj\Debug\MicroSCADARuntime.pdb
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA 2-0\MicroSCADARuntime\bin\Debug\MicroSCADARuntime.exe.config
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA 2-0\MicroSCADARuntime\bin\Debug\MicroSCADARuntime.exe
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA 2-0\MicroSCADARuntime\bin\Debug\MicroSCADARuntime.pdb
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA 2-0\MicroSCADARuntime\bin\Debug\MicroSCADACustomLibrary.dll
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA 2-0\MicroSCADARuntime\bin\Debug\MicroSCADARuntimeLibrary.dll
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA 2-0\MicroSCADARuntime\bin\Debug\MicroSCADACustomLibrary.pdb
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA 2-0\MicroSCADARuntime\bin\Debug\MicroSCADARuntimeLibrary.pdb
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA 2-0\MicroSCADARuntime\bin\Debug\Interop.MSScriptControl.dll
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA 2-0\MicroSCADARuntime\obj\Debug\MicroSCADARuntime.csprojResolveAssemblyReference.cache
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA 2-0\MicroSCADARuntime\obj\Debug\Interop.MSScriptControl.dll
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA 2-0\MicroSCADARuntime\obj\Debug\MicroSCADARuntime.csproj.ResolveComReference.cache
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA 2-0\MicroSCADARuntime\obj\Debug\MicroSCADARuntime.Src.Forms.AlarmsForm.resources
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA 2-0\MicroSCADARuntime\obj\Debug\MicroSCADARuntime.Src.Forms.AlarmsTableForm.resources
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA 2-0\MicroSCADARuntime\obj\Debug\MicroSCADARuntime.Src.Forms.CommLogForm.resources
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA 2-0\MicroSCADARuntime\obj\Debug\MicroSCADARuntime.MainFormRuntime.resources
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA 2-0\MicroSCADARuntime\obj\Debug\MicroSCADARuntimeLibrary.Properties.Resources.resources
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA 2-0\MicroSCADARuntime\obj\Debug\MicroSCADARuntime.csproj.GenerateResource.Cache
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA 2-0\MicroSCADARuntime\obj\Debug\MicroSCADARuntime.exe
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA 2-0\MicroSCADARuntime\obj\Debug\MicroSCADARuntime.pdb
+D:\Projects\VisualStudio2010\HMIStudio.NET\MicroSCADA 2-0\MicroSCADARuntime\bin\Debug\MicroSCADARuntime.exe.config
+D:\Projects\VisualStudio2010\HMIStudio.NET\MicroSCADA 2-0\MicroSCADARuntime\bin\Debug\MicroSCADARuntime.exe
+D:\Projects\VisualStudio2010\HMIStudio.NET\MicroSCADA 2-0\MicroSCADARuntime\bin\Debug\MicroSCADARuntime.pdb
+D:\Projects\VisualStudio2010\HMIStudio.NET\MicroSCADA 2-0\MicroSCADARuntime\bin\Debug\MicroSCADACustomLibrary.dll
+D:\Projects\VisualStudio2010\HMIStudio.NET\MicroSCADA 2-0\MicroSCADARuntime\bin\Debug\MicroSCADARuntimeLibrary.dll
+D:\Projects\VisualStudio2010\HMIStudio.NET\MicroSCADA 2-0\MicroSCADARuntime\bin\Debug\MicroSCADACustomLibrary.pdb
+D:\Projects\VisualStudio2010\HMIStudio.NET\MicroSCADA 2-0\MicroSCADARuntime\bin\Debug\MicroSCADARuntimeLibrary.pdb
+D:\Projects\VisualStudio2010\HMIStudio.NET\MicroSCADA 2-0\MicroSCADARuntime\bin\Debug\Interop.MSScriptControl.dll
+D:\Projects\VisualStudio2010\HMIStudio.NET\MicroSCADA 2-0\MicroSCADARuntime\obj\Debug\MicroSCADARuntime.csprojResolveAssemblyReference.cache
+D:\Projects\VisualStudio2010\HMIStudio.NET\MicroSCADA 2-0\MicroSCADARuntime\obj\Debug\Interop.MSScriptControl.dll
+D:\Projects\VisualStudio2010\HMIStudio.NET\MicroSCADA 2-0\MicroSCADARuntime\obj\Debug\MicroSCADARuntime.csproj.ResolveComReference.cache
+D:\Projects\VisualStudio2010\HMIStudio.NET\MicroSCADA 2-0\MicroSCADARuntime\obj\Debug\MicroSCADARuntime.Src.Forms.AlarmsForm.resources
+D:\Projects\VisualStudio2010\HMIStudio.NET\MicroSCADA 2-0\MicroSCADARuntime\obj\Debug\MicroSCADARuntime.Src.Forms.AlarmsTableForm.resources
+D:\Projects\VisualStudio2010\HMIStudio.NET\MicroSCADA 2-0\MicroSCADARuntime\obj\Debug\MicroSCADARuntime.Src.Forms.CommLogForm.resources
+D:\Projects\VisualStudio2010\HMIStudio.NET\MicroSCADA 2-0\MicroSCADARuntime\obj\Debug\MicroSCADARuntime.MainFormRuntime.resources
+D:\Projects\VisualStudio2010\HMIStudio.NET\MicroSCADA 2-0\MicroSCADARuntime\obj\Debug\MicroSCADARuntimeLibrary.Properties.Resources.resources
+D:\Projects\VisualStudio2010\HMIStudio.NET\MicroSCADA 2-0\MicroSCADARuntime\obj\Debug\MicroSCADARuntime.csproj.GenerateResource.Cache
+D:\Projects\VisualStudio2010\HMIStudio.NET\MicroSCADA 2-0\MicroSCADARuntime\obj\Debug\MicroSCADARuntime.exe
+D:\Projects\VisualStudio2010\HMIStudio.NET\MicroSCADA 2-0\MicroSCADARuntime\obj\Debug\MicroSCADARuntime.pdb
+D:\Projects\VisualStudio2017\HMIStudio.NET\MicroSCADA 2-0\MicroSCADARuntime\bin\Debug\MicroSCADARuntime.exe.config
+D:\Projects\VisualStudio2017\HMIStudio.NET\MicroSCADA 2-0\MicroSCADARuntime\bin\Debug\MicroSCADARuntime.exe
+D:\Projects\VisualStudio2017\HMIStudio.NET\MicroSCADA 2-0\MicroSCADARuntime\bin\Debug\MicroSCADARuntime.pdb
+D:\Projects\VisualStudio2017\HMIStudio.NET\MicroSCADA 2-0\MicroSCADARuntime\bin\Debug\MicroSCADACustomLibrary.dll
+D:\Projects\VisualStudio2017\HMIStudio.NET\MicroSCADA 2-0\MicroSCADARuntime\bin\Debug\MicroSCADARuntimeLibrary.dll
+D:\Projects\VisualStudio2017\HMIStudio.NET\MicroSCADA 2-0\MicroSCADARuntime\bin\Debug\MicroSCADACustomLibrary.pdb
+D:\Projects\VisualStudio2017\HMIStudio.NET\MicroSCADA 2-0\MicroSCADARuntime\bin\Debug\MicroSCADARuntimeLibrary.pdb
+D:\Projects\VisualStudio2017\HMIStudio.NET\MicroSCADA 2-0\MicroSCADARuntime\bin\Debug\Interop.MSScriptControl.dll
+D:\Projects\VisualStudio2017\HMIStudio.NET\MicroSCADA 2-0\MicroSCADARuntime\obj\Debug\MicroSCADARuntime.csprojAssemblyReference.cache
+D:\Projects\VisualStudio2017\HMIStudio.NET\MicroSCADA 2-0\MicroSCADARuntime\obj\Debug\Interop.MSScriptControl.dll
+D:\Projects\VisualStudio2017\HMIStudio.NET\MicroSCADA 2-0\MicroSCADARuntime\obj\Debug\MicroSCADARuntime.csproj.ResolveComReference.cache
+D:\Projects\VisualStudio2017\HMIStudio.NET\MicroSCADA 2-0\MicroSCADARuntime\obj\Debug\MicroSCADARuntime.Src.Forms.AlarmsForm.resources
+D:\Projects\VisualStudio2017\HMIStudio.NET\MicroSCADA 2-0\MicroSCADARuntime\obj\Debug\MicroSCADARuntime.Src.Forms.AlarmsTableForm.resources
+D:\Projects\VisualStudio2017\HMIStudio.NET\MicroSCADA 2-0\MicroSCADARuntime\obj\Debug\MicroSCADARuntime.Src.Forms.CommLogForm.resources
+D:\Projects\VisualStudio2017\HMIStudio.NET\MicroSCADA 2-0\MicroSCADARuntime\obj\Debug\MicroSCADARuntime.MainFormRuntime.resources
+D:\Projects\VisualStudio2017\HMIStudio.NET\MicroSCADA 2-0\MicroSCADARuntime\obj\Debug\MicroSCADARuntimeLibrary.Properties.Resources.resources
+D:\Projects\VisualStudio2017\HMIStudio.NET\MicroSCADA 2-0\MicroSCADARuntime\obj\Debug\MicroSCADARuntime.csproj.GenerateResource.cache
+D:\Projects\VisualStudio2017\HMIStudio.NET\MicroSCADA 2-0\MicroSCADARuntime\obj\Debug\MicroSCADARuntime.csproj.CoreCompileInputs.cache
+D:\Projects\VisualStudio2017\HMIStudio.NET\MicroSCADA 2-0\MicroSCADARuntime\obj\Debug\MicroSCADARuntime.csproj.CopyComplete
+D:\Projects\VisualStudio2017\HMIStudio.NET\MicroSCADA 2-0\MicroSCADARuntime\obj\Debug\MicroSCADARuntime.exe
+D:\Projects\VisualStudio2017\HMIStudio.NET\MicroSCADA 2-0\MicroSCADARuntime\obj\Debug\MicroSCADARuntime.pdb

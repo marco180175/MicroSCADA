@@ -1,0 +1,16 @@
+D:\Projects\VisualStudio2010\HMIStudio.NET\MicroSCADA 2-0\MicroSCADACompilerLibrary\obj\Debug\MicroSCADACompilerLibrary.csprojResolveAssemblyReference.cache
+D:\Projects\VisualStudio2010\HMIStudio.NET\MicroSCADA 2-0\MicroSCADACompilerLibrary\bin\Debug\MicroSCADACompilerLibrary.dll
+D:\Projects\VisualStudio2010\HMIStudio.NET\MicroSCADA 2-0\MicroSCADACompilerLibrary\bin\Debug\MicroSCADACompilerLibrary.pdb
+D:\Projects\VisualStudio2010\HMIStudio.NET\MicroSCADA 2-0\MicroSCADACompilerLibrary\bin\Debug\MicroSCADACustomLibrary.dll
+D:\Projects\VisualStudio2010\HMIStudio.NET\MicroSCADA 2-0\MicroSCADACompilerLibrary\bin\Debug\MicroSCADACustomLibrary.pdb
+D:\Projects\VisualStudio2010\HMIStudio.NET\MicroSCADA 2-0\MicroSCADACompilerLibrary\obj\Debug\MicroSCADACompilerLibrary.dll
+D:\Projects\VisualStudio2010\HMIStudio.NET\MicroSCADA 2-0\MicroSCADACompilerLibrary\obj\Debug\MicroSCADACompilerLibrary.pdb
+D:\Projects\VisualStudio2017\HMIStudio.NET\MicroSCADA 2-0\MicroSCADACompilerLibrary\obj\Debug\MicroSCADACompilerLibrary.csprojAssemblyReference.cache
+D:\Projects\VisualStudio2017\HMIStudio.NET\MicroSCADA 2-0\MicroSCADACompilerLibrary\obj\Debug\MicroSCADACompilerLibrary.csproj.CoreCompileInputs.cache
+D:\Projects\VisualStudio2017\HMIStudio.NET\MicroSCADA 2-0\MicroSCADACompilerLibrary\obj\Debug\MicroSCADACompilerLibrary.dll
+D:\Projects\VisualStudio2017\HMIStudio.NET\MicroSCADA 2-0\MicroSCADACompilerLibrary\obj\Debug\MicroSCADACompilerLibrary.pdb
+D:\Projects\VisualStudio2017\HMIStudio.NET\MicroSCADA 2-0\MicroSCADACompilerLibrary\bin\Debug\MicroSCADACompilerLibrary.dll
+D:\Projects\VisualStudio2017\HMIStudio.NET\MicroSCADA 2-0\MicroSCADACompilerLibrary\bin\Debug\MicroSCADACompilerLibrary.pdb
+D:\Projects\VisualStudio2017\HMIStudio.NET\MicroSCADA 2-0\MicroSCADACompilerLibrary\bin\Debug\MicroSCADACustomLibrary.dll
+D:\Projects\VisualStudio2017\HMIStudio.NET\MicroSCADA 2-0\MicroSCADACompilerLibrary\bin\Debug\MicroSCADACustomLibrary.pdb
+D:\Projects\VisualStudio2017\HMIStudio.NET\MicroSCADA 2-0\MicroSCADACompilerLibrary\obj\Debug\MicroSCADACompilerLibrary.csproj.CopyComplete

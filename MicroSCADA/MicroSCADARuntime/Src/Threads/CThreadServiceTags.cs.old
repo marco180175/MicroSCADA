@@ -1,0 +1,160 @@
+﻿using System;
+using System.Collections;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading;
+using MicroSCADACustomLibrary;
+using MicroSCADARuntime.Src.Tags;
+
+namespace MicroSCADARuntime.Src.Threads
+{
+    /*!
+     * Comunica tags do serviço de comunicação
+     * Todos tags são abstraidos da mesma forma.
+     */
+    class CThreadServiceTags : CThreadTags
+    {
+        private CRuntimeCustomTag m_tag;
+        private ServiceReference1.Service1Client m_proxy;
+        public CThreadServiceTags(ServiceReference1.Service1Client Proxy)
+            : base()
+        {
+            this.m_tag = null;
+            this.m_proxy = Proxy;
+        }
+        /*!
+         * 
+         */
+        public override void Start()
+        {
+            this.loop = true;
+            this.thread = new Thread(new ThreadStart(this.Execute));
+            this.thread.IsBackground = true;
+            this.thread.Start();
+        }
+        /*!
+         * 
+         */
+        public override void Stop()
+        {
+            if (thread != null)
+            {
+                //Termina loop da thread
+                loop = false;
+                //Aguarda temino da thread
+                thread.Join();
+                thread = null;                
+            }
+        }
+        /*!
+         * 
+         */
+        protected override void Execute()
+        {            
+            while (loop)
+            {
+                if (tagList.Count > 0)
+                {
+                    m_tag = (CRuntimeCustomTag)tagList[index];
+                    if (m_tag.Enabled)
+                    {
+                        if (!m_tag.forceWrite)
+                        {
+                            if ((Environment.TickCount - m_tag.TickCount) > m_tag.Scan)
+                            {
+                                m_tag.TickCount = Environment.TickCount;
+                                string value = m_proxy.GetTagValue(m_tag.GUID);
+                                if (value == null)
+                                    m_tag.SetValue("0");
+                                else
+                                    m_tag.SetValue(value);
+                            }
+                        }
+                        else
+                        {
+                            string value = m_tag.GetValue();
+                            m_tag.forceWrite = false;
+                            m_proxy.SetTagValue(m_tag.GUID, value);
+                        }
+                    }
+                    //
+                    if (index < tagList.Count - 1)
+                        index++;
+                    else
+                        index = 0;
+                }
+                //
+                Thread.Sleep(10);
+            }            
+        }
+        /*!
+         * 
+         */
+        public void SetSlaveList(ArrayList Value)
+        {
+            CRuntimeSlave slave;
+            foreach (object objSlv in Value)
+            {
+                slave = (CRuntimeSlave)objSlv;
+                switch (slave.Protocol)
+                {
+                    case CModbusType.ModbusMasterRTU:
+                        {
+                            m_proxy.CreateSlaveRTU(slave.Address,
+                                slave.COMClientConfig.COM,
+                                slave.COMClientConfig.BaudRate,
+                                slave.COMClientConfig.DataBits,
+                                slave.COMClientConfig.StopBits,
+                                slave.COMClientConfig.Parity);
+                        }; break;
+                    case CModbusType.ModbusMasterTCP:
+                        {
+                            m_proxy.CreateSlaveTCP(slave.Address,
+                                slave.TCPClientConfig.Address,
+                                slave.TCPClientConfig.Port);
+                        }; break;
+                    default:
+                        break;
+                }
+                //
+                SetTagList(slave.ObjectList);
+            }
+        }
+        /*!
+         * Cria tags internos no serviço de comunicação ServiceLibrary
+         */
+        public override void SetTagList(ArrayList Value)
+        {            
+            foreach (CRuntimeCustomTag item in Value)            
+            {
+                if (item is CRuntimeValuesTag)
+                {
+                    CRuntimeValuesTag tag = (CRuntimeValuesTag)item;
+                    m_proxy.CreateTagDEM(tag.GUID,
+                                            tag.Size,
+                                            tag.ArraySize,
+                                            tag.DataType,
+                                            tag.Scan,
+                                            tag.Type,
+                                            tag.MaxValue,
+                                            tag.MinValue,
+                                            tag.Increment
+                                            );
+                }
+                else if (item is CRuntimeMemoryTag)
+                {
+                    CRuntimeMemoryTag tag = (CRuntimeMemoryTag)item;
+                    m_proxy.CreateTagRAM(tag.GUID,
+                                            tag.Size,
+                                            tag.ArraySize,
+                                            tag.DataType
+                                            );
+                }
+                //
+                tagList.Add(item);                
+            }            
+        }
+    }
+    
+}

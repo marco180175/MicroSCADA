@@ -1,0 +1,8 @@
+D:\Projects\VisualStudio2010\HMIStudio.NET\MicroSCADA 2-0\ConvertBitmap\bin\Debug\ConvertBitmap.exe
+D:\Projects\VisualStudio2010\HMIStudio.NET\MicroSCADA 2-0\ConvertBitmap\bin\Debug\ConvertBitmap.pdb
+D:\Projects\VisualStudio2010\HMIStudio.NET\MicroSCADA 2-0\ConvertBitmap\obj\x86\Debug\ConvertBitmap.Form1.resources
+D:\Projects\VisualStudio2010\HMIStudio.NET\MicroSCADA 2-0\ConvertBitmap\obj\x86\Debug\ConvertBitmap.Properties.Resources.resources
+D:\Projects\VisualStudio2010\HMIStudio.NET\MicroSCADA 2-0\ConvertBitmap\obj\x86\Debug\ConvertBitmap.csproj.GenerateResource.Cache
+D:\Projects\VisualStudio2010\HMIStudio.NET\MicroSCADA 2-0\ConvertBitmap\obj\x86\Debug\ConvertBitmap.exe
+D:\Projects\VisualStudio2010\HMIStudio.NET\MicroSCADA 2-0\ConvertBitmap\obj\x86\Debug\ConvertBitmap.pdb
+D:\Projects\VisualStudio2010\HMIStudio.NET\MicroSCADA 2-0\ConvertBitmap\obj\x86\Debug\ConvertBitmap.csprojResolveAssemblyReference.cache

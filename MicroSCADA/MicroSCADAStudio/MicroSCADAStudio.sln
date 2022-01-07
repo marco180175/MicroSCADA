@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroSCADAStudio", "MicroSCADAStudio.csproj", "{11A8DBF1-1819-438A-AEA0-3FA835F3A2D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroSCADACustomLibrary", "..\MicroSCADACustomLibrary\MicroSCADACustomLibrary.csproj", "{59E93F23-E7E4-4D2D-ADD5-648C4975BEDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aga.Controls", "..\lib\TreeViewAdv\Aga.Controls\Aga.Controls.csproj", "{E73BB233-D88B-44A7-A98F-D71EE158381D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11A8DBF1-1819-438A-AEA0-3FA835F3A2D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11A8DBF1-1819-438A-AEA0-3FA835F3A2D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11A8DBF1-1819-438A-AEA0-3FA835F3A2D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11A8DBF1-1819-438A-AEA0-3FA835F3A2D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59E93F23-E7E4-4D2D-ADD5-648C4975BEDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59E93F23-E7E4-4D2D-ADD5-648C4975BEDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59E93F23-E7E4-4D2D-ADD5-648C4975BEDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59E93F23-E7E4-4D2D-ADD5-648C4975BEDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E73BB233-D88B-44A7-A98F-D71EE158381D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E73BB233-D88B-44A7-A98F-D71EE158381D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E73BB233-D88B-44A7-A98F-D71EE158381D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E73BB233-D88B-44A7-A98F-D71EE158381D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

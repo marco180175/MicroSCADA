@@ -1,0 +1,30 @@
+D:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADACustomLibray\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADACustomLibray\bin\Debug\MicroSCADACustomLibrary.dll
+D:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADACustomLibray\bin\Debug\MicroSCADACustomLibrary.pdb
+D:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADACustomLibray\obj\Debug\MicroSCADACustomLibrary.dll
+D:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADACustomLibray\obj\Debug\MicroSCADACustomLibrary.pdb
+D:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADACustomLibrary\bin\Debug\MicroSCADACustomLibrary.dll
+D:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADACustomLibrary\bin\Debug\MicroSCADACustomLibrary.pdb
+D:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADACustomLibrary\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADACustomLibrary\obj\Debug\MicroSCADACustomLibrary.dll
+D:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADACustomLibrary\obj\Debug\MicroSCADACustomLibrary.pdb
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA\MicroSCADACustomLibrary\bin\Debug\MicroSCADACustomLibrary.dll
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA\MicroSCADACustomLibrary\bin\Debug\MicroSCADACustomLibrary.pdb
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA\MicroSCADACustomLibrary\obj\Debug\MicroSCADACustomLibrary.dll
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA\MicroSCADACustomLibrary\obj\Debug\MicroSCADACustomLibrary.pdb
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA 2-0\MicroSCADACustomLibrary\bin\Debug\MicroSCADACustomLibrary.dll
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA 2-0\MicroSCADACustomLibrary\bin\Debug\MicroSCADACustomLibrary.pdb
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA 2-0\MicroSCADACustomLibrary\obj\Debug\MicroSCADACustomLibrary.dll
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA 2-0\MicroSCADACustomLibrary\obj\Debug\MicroSCADACustomLibrary.pdb
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA 2-0\MicroSCADACustomLibrary\obj\Debug\MicroSCADACustomLibrary.csprojResolveAssemblyReference.cache
+D:\Projects\VisualStudio2010\HMIStudio.NET\MicroSCADA 2-0\MicroSCADACustomLibrary\bin\Debug\MicroSCADACustomLibrary.dll
+D:\Projects\VisualStudio2010\HMIStudio.NET\MicroSCADA 2-0\MicroSCADACustomLibrary\bin\Debug\MicroSCADACustomLibrary.pdb
+D:\Projects\VisualStudio2010\HMIStudio.NET\MicroSCADA 2-0\MicroSCADACustomLibrary\obj\Debug\MicroSCADACustomLibrary.dll
+D:\Projects\VisualStudio2010\HMIStudio.NET\MicroSCADA 2-0\MicroSCADACustomLibrary\obj\Debug\MicroSCADACustomLibrary.pdb
+D:\Projects\VisualStudio2010\HMIStudio.NET\MicroSCADA 2-0\MicroSCADACustomLibrary\obj\Debug\MicroSCADACustomLibrary.csproj.CoreCompileInputs.cache
+D:\Projects\VisualStudio2017\HMIStudio.NET\MicroSCADA 2-0\MicroSCADACustomLibrary\bin\Debug\MicroSCADACustomLibrary.dll
+D:\Projects\VisualStudio2017\HMIStudio.NET\MicroSCADA 2-0\MicroSCADACustomLibrary\bin\Debug\MicroSCADACustomLibrary.pdb
+D:\Projects\VisualStudio2017\HMIStudio.NET\MicroSCADA 2-0\MicroSCADACustomLibrary\obj\Debug\MicroSCADACustomLibrary.csproj.CoreCompileInputs.cache
+D:\Projects\VisualStudio2017\HMIStudio.NET\MicroSCADA 2-0\MicroSCADACustomLibrary\obj\Debug\MicroSCADACustomLibrary.dll
+D:\Projects\VisualStudio2017\HMIStudio.NET\MicroSCADA 2-0\MicroSCADACustomLibrary\obj\Debug\MicroSCADACustomLibrary.pdb
+D:\Projects\VisualStudio2017\HMIStudio.NET\MicroSCADA 2-0\MicroSCADACustomLibrary\obj\Debug\MicroSCADACustomLibrary.csprojAssemblyReference.cache

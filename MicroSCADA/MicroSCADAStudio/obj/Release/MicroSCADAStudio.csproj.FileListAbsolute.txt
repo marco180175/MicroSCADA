@@ -1,0 +1,3 @@
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\bin\Release\MicroSCADAStudio.exe.config
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\obj\Release\Interop.ADOX.dll
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\obj\Release\MicroSCADAStudio.csproj.ResolveComReference.cache

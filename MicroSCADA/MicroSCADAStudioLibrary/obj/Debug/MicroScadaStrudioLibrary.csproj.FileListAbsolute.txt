@@ -1,0 +1,7 @@
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA\MicroScadaStrudioLibrary\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA\MicroScadaStrudioLibrary\bin\Debug\MicroSCADAStudioLibrary.dll
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA\MicroScadaStrudioLibrary\bin\Debug\MicroSCADAStudioLibrary.pdb
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA\MicroScadaStrudioLibrary\bin\Debug\MicroSCADACustomLibrary.dll
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA\MicroScadaStrudioLibrary\bin\Debug\MicroSCADACustomLibrary.pdb
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA\MicroScadaStrudioLibrary\obj\Debug\MicroSCADAStudioLibrary.dll
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA\MicroScadaStrudioLibrary\obj\Debug\MicroSCADAStudioLibrary.pdb

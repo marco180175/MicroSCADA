@@ -1,0 +1,233 @@
+C:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\obj\Debug\Interop.ADOX.dll
+C:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.csproj.ResolveComReference.cache
+C:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\obj\Debug\SCADABuilder.exe
+C:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\obj\Debug\SCADABuilder.pdb
+C:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\bin\Debug\SCADABuilder.exe
+C:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\bin\Debug\SCADABuilder.pdb
+C:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\bin\Debug\ICSharpCode.TextEditor.dll
+C:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\bin\Debug\MagicLibrary.dll
+C:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\bin\Debug\MicroSCADACustomLibray.dll
+C:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\bin\Debug\MicroSCADARuntime.exe
+C:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\bin\Debug\ICSharpCode.TextEditor.pdb
+C:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+C:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\bin\Debug\MicroSCADARuntime.pdb
+C:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\bin\Debug\MicroSCADACustomLibray.pdb
+C:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\bin\Debug\Interop.ADOX.dll
+C:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.MainFormDesign.resources
+C:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.ObjectPropertiesForm.resources
+C:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.ProjectManagerForm.resources
+C:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.Src.Forms.BackgroundScreenForm.resources
+C:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.FormSelectTag.resources
+C:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.Properties.Resources.resources
+C:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.WorkSpaceForm.resources
+C:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.Src.Forms.ScriptEditorForm.resources
+C:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.Src.Forms.SplashForm.resources
+C:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.Src.Forms.TableTagForm.resources
+C:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.csproj.GenerateResource.Cache
+E:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\obj\Debug\Interop.ADOX.dll
+E:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.csproj.ResolveComReference.cache
+E:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.MainFormDesign.resources
+E:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.ObjectPropertiesForm.resources
+E:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.ProjectManagerForm.resources
+E:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.Src.Forms.BackgroundScreenForm.resources
+E:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.ApplicationBrowserForm.resources
+E:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.Properties.Resources.resources
+E:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.WorkSpaceForm.resources
+E:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.Src.Forms.ScriptEditorForm.resources
+E:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.Src.Forms.SplashForm.resources
+E:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.Src.Forms.TableTagForm.resources
+E:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.csproj.GenerateResource.Cache
+E:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\bin\Debug\MicroSCADAStudio.exe
+E:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\bin\Debug\MicroSCADAStudio.pdb
+E:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\bin\Debug\ICSharpCode.TextEditor.dll
+E:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\bin\Debug\MicroSCADACustomLibray.dll
+E:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\bin\Debug\MicroSCADARuntime.exe
+E:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+E:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\bin\Debug\MicroSCADARuntime.pdb
+E:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\bin\Debug\MicroSCADACustomLibray.pdb
+E:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\bin\Debug\Interop.ADOX.dll
+E:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.exe
+E:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.pdb
+E:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.Src.Forms.TableBitmapForm.resources
+E:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.Src.Forms.StatusForm.resources
+E:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\bin\Debug\Aga.Controls.dll
+E:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.Src.Forms.TableScreenForm.resources
+E:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.Src.Forms.TableZoneForm.resources
+E:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\bin\Debug\Aga.Controls.pdb
+E:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.Src.TypeConverter.CStringCollectionEditor.resources
+E:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.Src.Forms.ActionEditorForm.resources
+E:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.Src.Forms.CollectionEditorForm.resources
+D:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\bin\Debug\MicroSCADAStudio.exe.config
+D:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\bin\Debug\MicroSCADAStudio.exe
+D:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\bin\Debug\MicroSCADAStudio.pdb
+D:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\bin\Debug\Aga.Controls.dll
+D:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\bin\Debug\ICSharpCode.TextEditor.dll
+D:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\bin\Debug\MicroSCADACustomLibrary.dll
+D:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+D:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\bin\Debug\Aga.Controls.pdb
+D:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\bin\Debug\MicroSCADACustomLibrary.pdb
+D:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\bin\Debug\Interop.ADOX.dll
+D:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\obj\Debug\Interop.ADOX.dll
+D:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.csproj.ResolveComReference.cache
+D:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.MainFormDesign.resources
+D:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.Src.DockingForms.ObjectPropertiesForm.resources
+D:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.Src.DockingForms.ProjectManagerForm.resources
+D:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.Src.Forms.ActionEditorForm.resources
+D:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.Src.Forms.BackgroundScreenForm.resources
+D:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.Src.Forms.ApplicationBrowserForm.resources
+D:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.Properties.Resources.resources
+D:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.Src.DockingForms.WorkSpaceForm.resources
+D:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.Src.Forms.CollectionEditorForm.resources
+D:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.Src.Forms.ImageLibraryForm.resources
+D:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.Src.Forms.ScriptEditorForm.resources
+D:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.Src.Forms.SplashForm.resources
+D:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.Src.Forms.StatusForm.resources
+D:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.Src.Forms.TableBitmapForm.resources
+D:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.Src.Forms.TableScreenForm.resources
+D:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.Src.Forms.TableTagForm.resources
+D:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.Src.Forms.TableZoneForm.resources
+D:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.Src.Forms.CStringCollectionEditor.resources
+D:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\obj\Debug\GenerateResource.read.1.tlog
+D:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\obj\Debug\GenerateResource.write.1.tlog
+D:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.exe
+D:\Projects\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.pdb
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.csprojResolveAssemblyReference.cache
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\obj\Debug\Interop.ADOX.dll
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.csproj.ResolveComReference.cache
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.MainFormDesign.resources
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.Src.DockingForms.ObjectPropertiesForm.resources
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.Src.DockingForms.ProjectManagerForm.resources
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.Properties.Resources.resources
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.Src.DockingForms.WorkSpaceForm.resources
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.Src.Forms.ImageLibraryForm.resources
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.Src.Forms.PrefecencesForm.resources
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.Src.Forms.ResourcesForm.resources
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.Src.Forms.SplashForm.resources
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.Src.Forms.StatusForm.resources
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.Src.Forms.TableAlarmsForm.resources
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.Src.Forms.TableBitmapForm.resources
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.Src.Forms.TableInternalTagForm.resources
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.Src.Forms.TableScreenForm.resources
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.Src.Forms.TableTagForm.resources
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.Src.Forms.TableZoneForm.resources
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.csproj.GenerateResource.Cache
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\bin\Debug\MicroSCADAStudio.exe.config
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\bin\Debug\MicroSCADAStudio.exe
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\bin\Debug\MicroSCADAStudio.pdb
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\bin\Debug\Aga.Controls.dll
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\bin\Debug\ICSharpCode.TextEditor.dll
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\bin\Debug\MicroSCADACustomLibrary.dll
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\bin\Debug\MicroSCADAStudioLibrary.dll
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\bin\Debug\Aga.Controls.pdb
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\bin\Debug\MicroSCADACustomLibrary.pdb
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\bin\Debug\MicroSCADAStudioLibrary.pdb
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\bin\Debug\Interop.ADOX.dll
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.exe
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.pdb
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA 2-0\MicroSCADAStudio\bin\Debug\MicroSCADAStudio.exe.config
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA 2-0\MicroSCADAStudio\bin\Debug\MicroSCADAStudio.exe
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA 2-0\MicroSCADAStudio\bin\Debug\MicroSCADAStudio.pdb
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA 2-0\MicroSCADAStudio\bin\Debug\Aga.Controls.dll
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA 2-0\MicroSCADAStudio\bin\Debug\MicroSCADACustomLibrary.dll
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA 2-0\MicroSCADAStudio\bin\Debug\MicroSCADAStudioLibrary.dll
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA 2-0\MicroSCADAStudio\bin\Debug\MicroSCADACustomLibrary.pdb
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA 2-0\MicroSCADAStudio\bin\Debug\MicroSCADAStudioLibrary.pdb
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA 2-0\MicroSCADAStudio\bin\Debug\Aga.Controls.pdb
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA 2-0\MicroSCADAStudio\bin\Debug\Interop.ADOX.dll
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA 2-0\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.csprojResolveAssemblyReference.cache
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA 2-0\MicroSCADAStudio\obj\Debug\Interop.ADOX.dll
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA 2-0\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.csproj.ResolveComReference.cache
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA 2-0\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.MainFormDesign.resources
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA 2-0\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.Src.DockingForms.ObjectPropertiesForm.resources
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA 2-0\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.Src.DockingForms.ProjectManagerForm.resources
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA 2-0\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.Properties.Resources.resources
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA 2-0\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.Src.DockingForms.WorkSpaceForm.resources
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA 2-0\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.Src.Forms.ImageLibraryForm.resources
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA 2-0\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.Src.Forms.PrefecencesForm.resources
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA 2-0\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.Src.Forms.ResourcesForm.resources
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA 2-0\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.Src.Forms.SplashForm.resources
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA 2-0\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.Src.Forms.StatusForm.resources
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA 2-0\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.Src.Forms.TableAlarmsForm.resources
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA 2-0\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.Src.Forms.TableBitmapForm.resources
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA 2-0\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.Src.Forms.TableInternalTagForm.resources
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA 2-0\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.Src.Forms.TableScreenForm.resources
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA 2-0\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.Src.Forms.TableTagForm.resources
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA 2-0\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.Src.Forms.TableZoneForm.resources
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA 2-0\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.csproj.GenerateResource.Cache
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA 2-0\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.exe
+D:\Projects\VisualStudio2010\AutoToolsCSharp\MicroSCADA 2-0\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.pdb
+D:\Projects\VisualStudio2010\HMIStudio.NET\MicroSCADA 2-0\MicroSCADAStudio\bin\Debug\MicroSCADAStudio.exe.config
+D:\Projects\VisualStudio2010\HMIStudio.NET\MicroSCADA 2-0\MicroSCADAStudio\obj\Debug\Interop.ADOX.dll
+D:\Projects\VisualStudio2010\HMIStudio.NET\MicroSCADA 2-0\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.csproj.ResolveComReference.cache
+D:\Projects\VisualStudio2010\HMIStudio.NET\MicroSCADA 2-0\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.exe
+D:\Projects\VisualStudio2010\HMIStudio.NET\MicroSCADA 2-0\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.pdb
+D:\Projects\VisualStudio2010\HMIStudio.NET\MicroSCADA 2-0\MicroSCADAStudio\bin\Debug\MicroSCADAStudio.exe
+D:\Projects\VisualStudio2010\HMIStudio.NET\MicroSCADA 2-0\MicroSCADAStudio\bin\Debug\MicroSCADAStudio.pdb
+D:\Projects\VisualStudio2010\HMIStudio.NET\MicroSCADA 2-0\MicroSCADAStudio\bin\Debug\Aga.Controls.dll
+D:\Projects\VisualStudio2010\HMIStudio.NET\MicroSCADA 2-0\MicroSCADAStudio\bin\Debug\MicroSCADACustomLibrary.dll
+D:\Projects\VisualStudio2010\HMIStudio.NET\MicroSCADA 2-0\MicroSCADAStudio\bin\Debug\MicroSCADAStudioLibrary.dll
+D:\Projects\VisualStudio2010\HMIStudio.NET\MicroSCADA 2-0\MicroSCADAStudio\bin\Debug\MicroSCADACustomLibrary.pdb
+D:\Projects\VisualStudio2010\HMIStudio.NET\MicroSCADA 2-0\MicroSCADAStudio\bin\Debug\MicroSCADAStudioLibrary.pdb
+D:\Projects\VisualStudio2010\HMIStudio.NET\MicroSCADA 2-0\MicroSCADAStudio\bin\Debug\Aga.Controls.pdb
+D:\Projects\VisualStudio2010\HMIStudio.NET\MicroSCADA 2-0\MicroSCADAStudio\bin\Debug\Interop.ADOX.dll
+D:\Projects\VisualStudio2010\HMIStudio.NET\MicroSCADA 2-0\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.MainFormDesign.resources
+D:\Projects\VisualStudio2010\HMIStudio.NET\MicroSCADA 2-0\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.Src.DockingForms.ObjectPropertiesForm.resources
+D:\Projects\VisualStudio2010\HMIStudio.NET\MicroSCADA 2-0\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.Src.DockingForms.ProjectManagerForm.resources
+D:\Projects\VisualStudio2010\HMIStudio.NET\MicroSCADA 2-0\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.Properties.Resources.resources
+D:\Projects\VisualStudio2010\HMIStudio.NET\MicroSCADA 2-0\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.Src.DockingForms.WorkSpaceForm.resources
+D:\Projects\VisualStudio2010\HMIStudio.NET\MicroSCADA 2-0\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.Src.Forms.ImageLibraryForm.resources
+D:\Projects\VisualStudio2010\HMIStudio.NET\MicroSCADA 2-0\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.Src.Forms.PrefecencesForm.resources
+D:\Projects\VisualStudio2010\HMIStudio.NET\MicroSCADA 2-0\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.Src.Forms.ResourcesForm.resources
+D:\Projects\VisualStudio2010\HMIStudio.NET\MicroSCADA 2-0\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.Src.Forms.SplashForm.resources
+D:\Projects\VisualStudio2010\HMIStudio.NET\MicroSCADA 2-0\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.Src.Forms.StatusForm.resources
+D:\Projects\VisualStudio2010\HMIStudio.NET\MicroSCADA 2-0\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.Src.Forms.TableAlarmsForm.resources
+D:\Projects\VisualStudio2010\HMIStudio.NET\MicroSCADA 2-0\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.Src.Forms.TableBitmapForm.resources
+D:\Projects\VisualStudio2010\HMIStudio.NET\MicroSCADA 2-0\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.Src.Forms.TableInternalTagForm.resources
+D:\Projects\VisualStudio2010\HMIStudio.NET\MicroSCADA 2-0\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.Src.Forms.TableScreenForm.resources
+D:\Projects\VisualStudio2010\HMIStudio.NET\MicroSCADA 2-0\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.Src.Forms.TableTagForm.resources
+D:\Projects\VisualStudio2010\HMIStudio.NET\MicroSCADA 2-0\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.Src.Forms.TableZoneForm.resources
+D:\Projects\VisualStudio2010\HMIStudio.NET\MicroSCADA 2-0\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.csproj.GenerateResource.Cache
+D:\Projects\VisualStudio2010\HMIStudio.NET\MicroSCADA 2-0\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.csprojAssemblyReference.cache
+D:\Projects\VisualStudio2010\HMIStudio.NET\MicroSCADA 2-0\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.csproj.CoreCompileInputs.cache
+D:\Projects\VisualStudio2010\HMIStudio.NET\MicroSCADA 2-0\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.csproj.CopyComplete
+D:\Projects\VisualStudio2017\HMIStudio.NET\MicroSCADA 2-0\MicroSCADAStudio\bin\Debug\MicroSCADAStudio.exe.config
+D:\Projects\VisualStudio2017\HMIStudio.NET\MicroSCADA 2-0\MicroSCADAStudio\bin\Debug\MicroSCADAStudio.exe
+D:\Projects\VisualStudio2017\HMIStudio.NET\MicroSCADA 2-0\MicroSCADAStudio\bin\Debug\MicroSCADAStudio.pdb
+D:\Projects\VisualStudio2017\HMIStudio.NET\MicroSCADA 2-0\MicroSCADAStudio\bin\Debug\Aga.Controls.dll
+D:\Projects\VisualStudio2017\HMIStudio.NET\MicroSCADA 2-0\MicroSCADAStudio\bin\Debug\MicroSCADACustomLibrary.dll
+D:\Projects\VisualStudio2017\HMIStudio.NET\MicroSCADA 2-0\MicroSCADAStudio\bin\Debug\MicroSCADAStudioLibrary.dll
+D:\Projects\VisualStudio2017\HMIStudio.NET\MicroSCADA 2-0\MicroSCADAStudio\bin\Debug\MicroSCADACustomLibrary.pdb
+D:\Projects\VisualStudio2017\HMIStudio.NET\MicroSCADA 2-0\MicroSCADAStudio\bin\Debug\MicroSCADAStudioLibrary.pdb
+D:\Projects\VisualStudio2017\HMIStudio.NET\MicroSCADA 2-0\MicroSCADAStudio\bin\Debug\Aga.Controls.pdb
+D:\Projects\VisualStudio2017\HMIStudio.NET\MicroSCADA 2-0\MicroSCADAStudio\bin\Debug\Interop.ADOX.dll
+D:\Projects\VisualStudio2017\HMIStudio.NET\MicroSCADA 2-0\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.csprojAssemblyReference.cache
+D:\Projects\VisualStudio2017\HMIStudio.NET\MicroSCADA 2-0\MicroSCADAStudio\obj\Debug\Interop.ADOX.dll
+D:\Projects\VisualStudio2017\HMIStudio.NET\MicroSCADA 2-0\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.csproj.ResolveComReference.cache
+D:\Projects\VisualStudio2017\HMIStudio.NET\MicroSCADA 2-0\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.MainFormDesign.resources
+D:\Projects\VisualStudio2017\HMIStudio.NET\MicroSCADA 2-0\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.Src.DockingForms.ObjectPropertiesForm.resources
+D:\Projects\VisualStudio2017\HMIStudio.NET\MicroSCADA 2-0\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.Src.DockingForms.ProjectManagerForm.resources
+D:\Projects\VisualStudio2017\HMIStudio.NET\MicroSCADA 2-0\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.Properties.Resources.resources
+D:\Projects\VisualStudio2017\HMIStudio.NET\MicroSCADA 2-0\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.Src.DockingForms.WorkSpaceForm.resources
+D:\Projects\VisualStudio2017\HMIStudio.NET\MicroSCADA 2-0\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.Src.Forms.ImageLibraryForm.resources
+D:\Projects\VisualStudio2017\HMIStudio.NET\MicroSCADA 2-0\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.Src.Forms.PrefecencesForm.resources
+D:\Projects\VisualStudio2017\HMIStudio.NET\MicroSCADA 2-0\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.Src.Forms.ResourcesForm.resources
+D:\Projects\VisualStudio2017\HMIStudio.NET\MicroSCADA 2-0\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.Src.Forms.SplashForm.resources
+D:\Projects\VisualStudio2017\HMIStudio.NET\MicroSCADA 2-0\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.Src.Forms.StatusForm.resources
+D:\Projects\VisualStudio2017\HMIStudio.NET\MicroSCADA 2-0\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.Src.Forms.TableAlarmsForm.resources
+D:\Projects\VisualStudio2017\HMIStudio.NET\MicroSCADA 2-0\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.Src.Forms.TableBitmapForm.resources
+D:\Projects\VisualStudio2017\HMIStudio.NET\MicroSCADA 2-0\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.Src.Forms.TableInternalTagForm.resources
+D:\Projects\VisualStudio2017\HMIStudio.NET\MicroSCADA 2-0\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.Src.Forms.TableScreenForm.resources
+D:\Projects\VisualStudio2017\HMIStudio.NET\MicroSCADA 2-0\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.Src.Forms.TableTagForm.resources
+D:\Projects\VisualStudio2017\HMIStudio.NET\MicroSCADA 2-0\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.Src.Forms.TableZoneForm.resources
+D:\Projects\VisualStudio2017\HMIStudio.NET\MicroSCADA 2-0\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.csproj.GenerateResource.cache
+D:\Projects\VisualStudio2017\HMIStudio.NET\MicroSCADA 2-0\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.csproj.CoreCompileInputs.cache
+D:\Projects\VisualStudio2017\HMIStudio.NET\MicroSCADA 2-0\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.csproj.CopyComplete
+D:\Projects\VisualStudio2017\HMIStudio.NET\MicroSCADA 2-0\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.exe
+D:\Projects\VisualStudio2017\HMIStudio.NET\MicroSCADA 2-0\MicroSCADAStudio\obj\Debug\MicroSCADAStudio.pdb
